@@ -1,0 +1,20 @@
+{
+  "item.elementaldungeons.pyron": "Pyron",
+  "block.elementaldungeons.pyron_block": "Pyron Block",
+  "itemGroup.ElementalDungeonsTab": "Elemental Dungeons Items",
+  "itemGroup.ElementalDungeonsTab2": "Elemental Dungeons Blocks",
+  "item.elementaldungeons.catalyst": "Catalyst",
+  "block.elementaldungeons.aeron_block": "Aeron Block",
+  "item.elementaldungeons.aeron": "Aeron",
+  "block.elementaldungeons.aqueon_block": "Aqueon Block",
+  "item.elementaldungeons.aqueon": "Aqueon",
+  "item.elementaldungeons.geon": "Geon",
+  "item.elementaldungeons.plasmaenergy": "Pyron Energy",
+  "item.elementaldungeons.gasenergy": "Aeron Energy",
+  "item.elementaldungeons.liquidenergy": "Aqueon Energy",
+  "item.elementaldungeons.solidenergy": "Geon Energy",
+  "block.elementaldungeons.geon_block": "Geon Block",
+  "block.elementaldungeons.purifier": "Purifier",
+  "screen.elementaldungeons.purifier": "Purifier",
+  "item.elementaldungeons.elemental_book": "Elemental Book"
+}

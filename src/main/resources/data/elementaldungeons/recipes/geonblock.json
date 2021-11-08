@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "elementaldungeons:geon_block"
+    }
+  ],
+  "result": {
+    "item": "elementaldungeons:geon",
+    "count": 9
+  }
+}

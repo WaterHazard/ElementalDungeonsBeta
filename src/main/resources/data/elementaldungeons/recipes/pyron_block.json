@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "elementaldungeons:pyron"
+    }
+  },
+  "result": {
+    "item": "elementaldungeons:pyron_block"
+  }
+
+}

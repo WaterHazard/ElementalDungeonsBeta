@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "elementaldungeons:aeron"
+    }
+  },
+  "result": {
+    "item": "elementaldungeons:aeron_block"
+  }
+
+}

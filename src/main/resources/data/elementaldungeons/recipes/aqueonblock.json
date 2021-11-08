@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "elementaldungeons:aqueon_block"
+    }
+  ],
+  "result": {
+    "item": "elementaldungeons:aqueon",
+    "count": 9
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "elementaldungeons:aeron_block"
+    }
+  ],
+  "result": {
+    "item": "elementaldungeons:aeron",
+    "count": 9
+  }
+}

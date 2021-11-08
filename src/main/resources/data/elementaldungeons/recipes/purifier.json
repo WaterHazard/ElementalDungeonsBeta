@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#S#",
+    "LBL",
+    "#S#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stone_bricks"
+    },
+    "S": {
+      "item": "minecraft:diamond"
+    },
+    "B": {
+      "item": "minecraft:bucket"
+    },
+    "L": {
+      "item": "minecraft:lapis_lazuli"
+    }
+  },
+  "result": {
+    "item": "elementaldungeons:purifier"
+  }
+}

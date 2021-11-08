@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "elementaldungeons:block/purifier_side",
+    "up": "elementaldungeons:block/purifier_side",
+    "north": "elementaldungeons:block/purifier",
+    "east": "elementaldungeons:block/purifier_side",
+    "south": "elementaldungeons:block/purifier_side",
+    "west": "elementaldungeons:block/purifier_side"
+  }
+}
