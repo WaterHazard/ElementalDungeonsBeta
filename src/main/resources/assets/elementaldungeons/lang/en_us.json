@@ -16,5 +16,6 @@
   "block.elementaldungeons.geon_block": "Geon Block",
   "block.elementaldungeons.purifier": "Purifier",
   "screen.elementaldungeons.purifier": "Purifier",
-  "item.elementaldungeons.elemental_book": "Elemental Book"
+  "item.elementaldungeons.elemental_book": "Elemental Book",
+  "item.elementaldungeons.pyron_book": "Pyron Book"
 }

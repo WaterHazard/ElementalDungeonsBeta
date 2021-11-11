@@ -41,7 +41,10 @@ public class ModItems {
             () -> new Item(new Item.Properties() .group(ModItemGroup.ELEMENTAL_DUNGEONS_GROUP)));
 
     public static final  RegistryObject<Item>  ELEMENTAL_BOOK = ITEMS_.register( "elemental_book",
-            () -> new Item(new Item.Properties() .group(ModItemGroup.ELEMENTAL_DUNGEONS_GROUP)));
+            () -> new Item(new Item.Properties() .group(ModItemGroup.ELEMENTAL_DUNGEONS_GROUP).maxStackSize(1)));
+
+    public static final  RegistryObject<Item>  PYRON_BOOK = ITEMS_.register( "pyron_book",
+            () -> new pyron_book(new Item.Properties() .group(ModItemGroup.ELEMENTAL_DUNGEONS_GROUP).maxStackSize(1)));
 
     public static void register(IEventBus eventBus) {
         ITEMS_.register(eventBus);
